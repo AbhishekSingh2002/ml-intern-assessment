@@ -1,0 +1,2 @@
+[console_scripts]
+trigram-cli = ml_assignment.cli:main

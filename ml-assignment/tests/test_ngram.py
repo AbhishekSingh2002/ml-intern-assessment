@@ -1,5 +1,5 @@
 import pytest
-from src.ngram_model import TrigramModel
+from ml_assignment.src.ngram_model import TrigramModel
 
 def test_fit_and_generate():
     model = TrigramModel()
